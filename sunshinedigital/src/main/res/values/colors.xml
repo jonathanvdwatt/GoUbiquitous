@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="digital_background">#2196F3</color>
+    <color name="digital_text">#ffffff</color>
+    <color name="temp_high_text">#BBDEFB</color>
+    <color name="temp_low_text">#BBDEFB</color>
+    <color name="retrieving_data_text">#ffffff</color>
+</resources>
